@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-import lab1
-import lab2
+import ./lab1 as lab1
+import ./lab2 as lab2
 from lab1 import *
 from lab2 import *
 # from lab3 import *
