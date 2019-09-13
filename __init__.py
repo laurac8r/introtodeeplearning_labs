@@ -1,5 +1,7 @@
-from lab1.py import *
-from lab2.py import *
+import lab1
+import lab2
+from lab1 import *
+from lab2 import *
 # from lab3 import *
 
 
